@@ -1,6 +1,7 @@
 # Latent Dynamics
-A research notebook on JEPA, stochastic differential equations, machine learning, and trading systems. Includes weekly trading reviews and strategy notes.
 
-## Posts
+A research notebook on JEPA, stochastic differential equations, machine learning, and trading systems.
 
-- [Why I Started This Research Notebook](/trading/2026-05-04/)
+Visit the site:
+
+https://tanhjk728.github.io
