@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Why I Started This Notebook"
-date: 2026-05-04
-categories: [trading, research]
+date: 2026-05-04 00:00:00 -0500
+categories: [research, trading]
 ---
 
 # Why I Started This Notebook
