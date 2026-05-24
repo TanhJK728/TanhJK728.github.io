@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About Me
+title: Jiaqi Tang
 permalink: /about/
 ---
-
-# Jiaqi Tang
 
 <img 
   src="{{ '/assets/images/selfie.jpg' | relative_url }}" 
