@@ -7,7 +7,7 @@ permalink: /about/
 # Jiaqi Tang
 
 <img 
-  src="{{ '/assets/images/profile.jpg' | relative_url }}" 
+  src="{{ '/assets/images/selfie.jpg' | relative_url }}" 
   alt="Jiaqi Tang" 
   style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
 
