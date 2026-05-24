@@ -5,6 +5,7 @@ permalink: /about/
 ---
 
 # Jiaqi Tang
+![Jiaqi Tang]({{ "/assets/images/selfie.jpg" | relative_url }})
 
 I am an undergraduate student interested in machine learning, stochastic processes, market dynamics, robotics, and trading systems.
 
@@ -16,7 +17,7 @@ I am an undergraduate student interested in machine learning, stochastic process
 
 ## Curriculum Vitae (CV)
 
-pdf cv
+[My CV]({{ "/assets/files/Jiaqi Tang CV.pdf.pdf" | relative_url }})
 
 ## Contact
 
