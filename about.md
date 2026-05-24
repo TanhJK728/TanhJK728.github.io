@@ -5,8 +5,13 @@ permalink: /about/
 ---
 
 # Jiaqi Tang
-![Jiaqi Tang]({{ "/assets/images/selfie.jpg" | relative_url }})
 
+<img 
+  src="{{ '/assets/images/profile.jpg' | relative_url }}" 
+  alt="Jiaqi Tang" 
+  style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;"
+>
+>
 I am an undergraduate student interested in machine learning, stochastic processes, market dynamics, robotics, and trading systems.
 
 ## Research Interests
