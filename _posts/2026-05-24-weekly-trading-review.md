@@ -288,19 +288,19 @@ It is about being disciplined.
 我认为真正的起点，是 2025 年 5 月前后，由 CPO 中际旭创这类核心票发起。随后 8 月存储涨价开始趋势行情，佰维存储这一类票走出了很强的 AI硬件属性。再往后，11 月商业航天走了一波短线炒作。然后市场进入混沌期，一直到 2026 年 2 月，算电协同开始启动，比如华电辽能、利通电子这些方向。
 
 <img 
-  src="{{ '/assets/post_images/中际旭创.jpg' | relative_url }}" 
+  src="{{ '/assets/post_images/中际旭创.png' | relative_url }}" 
   style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
 <img 
-  src="{{ '/assets/post_images/佰维存储.jpg' | relative_url }}" 
+  src="{{ '/assets/post_images/佰维存储.png' | relative_url }}" 
   style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
 <img 
-  src="{{ '/assets/post_images/航天发展.jpg' | relative_url }}" 
+  src="{{ '/assets/post_images/航天发展.png' | relative_url }}" 
   style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
 <img 
-  src="{{ '/assets/post_images/华电辽能.jpg' | relative_url }}" 
+  src="{{ '/assets/post_images/华电辽能.png' | relative_url }}" 
   style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
 <img 
-  src="{{ '/assets/post_images/利通电子.jpg' | relative_url }}" 
+  src="{{ '/assets/post_images/利通电子.png' | relative_url }}" 
   style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
 
 但本质上，从 2025 年 5 月到 2026 年 5 月，这整整一年，核心主线其实一直都是：
@@ -312,7 +312,7 @@ CPO、存储、算力租赁、算电协同、包括2026年四月份开始炒作�
 **AI基础设施。**
 
 <img 
-  src="{{ '/assets/post_images/寒武纪.jpg' | relative_url }}" 
+  src="{{ '/assets/post_images/寒武纪.png' | relative_url }}" 
   style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
 
 问题是，到 2026 年 5 月底，AI硬件几乎已经被市场从头到尾炒了一遍。
