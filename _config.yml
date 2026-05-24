@@ -3,7 +3,10 @@ theme: minima
 title: My Blogs
 description: A research notebook on JEPA, stochastic differential equations, machine learning, and trading systems.
 
-author: TanhJK728
+author: Jiaqi Tang
+
+header_pages:
+  - about.md
 
 future: true
 timezone: America/Chicago
