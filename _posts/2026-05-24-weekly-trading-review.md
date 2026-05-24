@@ -50,7 +50,7 @@ categories: trading
 
 <section class="lang-content lang-en active" markdown="1">
   
-# Weekly Trading Review: AI Hardware, Energy, and Applications
+# Weekly Trading Review: AI Hardware, Energy, and Applications (2026.05.18-2026.05.22)
 
 ## Market Overview
 
@@ -277,7 +277,7 @@ It is about being disciplined.
 
 <section class="lang-content lang-zh" markdown="1">
 
-# 市场复盘：AI硬件、能源与应用端
+# 市场复盘：AI硬件、能源与应用端（2026.05.18-2026.05.22）
 
 ## 市场总览
 
