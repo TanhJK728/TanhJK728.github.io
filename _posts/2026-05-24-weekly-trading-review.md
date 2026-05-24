@@ -289,21 +289,24 @@ It is about being disciplined.
 
 <img 
   src="{{ '/assets/post_images/20260524/中际旭创.png' | relative_url }}" 
-  style="width: 75%; max-width: 820px; border-radius: 12px; display: block; margin: 24px auto;">
-  
+  style="width: 95%; max-width: 820px; border-radius: 12px; display: block; margin: 24px auto;">
+
 <img 
   src="{{ '/assets/post_images/20260524/佰维存储.png' | relative_url }}" 
-  style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
+  style="width: 95%; max-width: 820px; border-radius: 12px; display: block; margin: 24px auto;">
+
 <img 
   src="{{ '/assets/post_images/20260524/航天发展.png' | relative_url }}" 
-  style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
+  style="width: 95%; max-width: 820px; border-radius: 12px; display: block; margin: 24px auto;">
+
 <img 
   src="{{ '/assets/post_images/20260524/华电辽能.png' | relative_url }}" 
-  style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
+  style="width: 95%; max-width: 820px; border-radius: 12px; display: block; margin: 24px auto;">
+
 <img 
   src="{{ '/assets/post_images/20260524/利通电子.png' | relative_url }}" 
-  style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
-
+  style="width: 95%; max-width: 820px; border-radius: 12px; display: block; margin: 24px auto;">
+  
 但本质上，从 2025 年 5 月到 2026 年 5 月，这整整一年，核心主线其实一直都是：
 
 **AI硬件。**
@@ -314,7 +317,7 @@ CPO、存储、算力租赁、算电协同、包括2026年四月份开始炒作�
 
 <img 
   src="{{ '/assets/post_images/20260524/寒武纪.png' | relative_url }}" 
-  style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
+  style="width: 95%; max-width: 820px; border-radius: 12px; display: block; margin: 24px auto;">
 
 问题是，到 2026 年 5 月底，AI硬件几乎已经被市场从头到尾炒了一遍。
 
