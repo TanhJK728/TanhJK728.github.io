@@ -5,6 +5,44 @@ date: 2026-05-24
 categories: trading
 ---
 
+<style>
+.lang-toggle {
+  display: flex;
+  gap: 10px;
+  margin: 24px 0 32px;
+  justify-content: flex-end;
+}
+
+.lang-btn {
+  border: 1px solid #ddd;
+  background: #fff;
+  color: #333;
+  padding: 7px 14px;
+  border-radius: 999px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.2s ease;
+}
+
+.lang-btn:hover {
+  border-color: #999;
+}
+
+.lang-btn.active {
+  background: #111;
+  color: #fff;
+  border-color: #111;
+}
+
+.lang-content {
+  display: none;
+}
+
+.lang-content.active {
+  display: block;
+}
+</style>
+
 <div class="lang-toggle">
   <button class="lang-btn active" data-lang="en">English</button>
   <button class="lang-btn" data-lang="zh">中文</button>
@@ -545,3 +583,31 @@ AI制药，是还没完全启动但具备预期差的分支。
 是纪律。
 
 </section>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const buttons = document.querySelectorAll(".lang-btn");
+  const contents = document.querySelectorAll(".lang-content");
+
+  function setLang(lang) {
+    buttons.forEach(btn => {
+      btn.classList.toggle("active", btn.dataset.lang === lang);
+    });
+
+    contents.forEach(content => {
+      content.classList.toggle("active", content.classList.contains("lang-" + lang));
+    });
+
+    localStorage.setItem("blog-lang", lang);
+  }
+
+  const savedLang = localStorage.getItem("blog-lang") || "en";
+  setLang(savedLang);
+
+  buttons.forEach(btn => {
+    btn.addEventListener("click", function () {
+      setLang(this.dataset.lang);
+    });
+  });
+});
+</script>
