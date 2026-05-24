@@ -289,13 +289,14 @@ It is about being disciplined.
 
 <img 
   src="{{ '/assets/post_images/20260524/中际旭创.png' | relative_url }}" 
-  style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
+  style="width: 75%; max-width: 820px; border-radius: 12px; display: block; margin: 24px auto;">
+  
 <img 
   src="{{ '/assets/post_images/20260524/佰维存储.png' | relative_url }}" 
   style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
 <img 
   src="{{ '/assets/post_images/20260524/航天发展.png' | relative_url }}" 
-  style="width: 300px; border-radius: 12px; display: block; margin: 20px;">
+  style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
 <img 
   src="{{ '/assets/post_images/20260524/华电辽能.png' | relative_url }}" 
   style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
