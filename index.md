@@ -6,7 +6,7 @@ layout: default
 
 A research notebook on JEPA, stochastic differential equations, machine learning, and trading systems.
 
-This site documents my research notes, technical experiments, and trading reviews.
+This site documents my research notes and trading reviews.
 Topics may include machine learning, stochastic processes, market dynamics, robotics, and other research ideas I am currently exploring.
 
 ---
