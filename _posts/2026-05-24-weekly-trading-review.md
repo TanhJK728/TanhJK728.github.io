@@ -295,7 +295,7 @@ It is about being disciplined.
   style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
 <img 
   src="{{ '/assets/post_images/20260524/航天发展.png' | relative_url }}" 
-  style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
+  style="width: 300px; border-radius: 12px; display: block; margin: 20px;">
 <img 
   src="{{ '/assets/post_images/20260524/华电辽能.png' | relative_url }}" 
   style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
