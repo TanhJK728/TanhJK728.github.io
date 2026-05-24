@@ -285,7 +285,7 @@ It is about being disciplined.
 
 回头看，这波行情不是今天才开始的。
 
-我认为真正的起点，是 2025 年 5 月前后，由 CPO 中际旭创这类核心票发起。随后 8 月存储涨价开始趋势行情，佰维存储这一类票走出了很强的 AI硬件属性。再往后，11 月商业航天走了一波短线炒作。然后市场进入混沌期，一直到 2026 年 2 月，算电协同开始启动，比如华电辽能、利通电子这些方向。
+我认为真正的起点，是 2025 年 5 月前后，由 CPO 中际旭创这类核心票发起。随后 8 月存储涨价开始趋势行情，佰维存储这一类票走出了很强的 AI硬件属性。再往后，11 月商业航天由航天发展带头走出了一波史诗级的短线炒作。随着2026年一月中旬融资保证金比例的提升，短线情绪受挫，市场进入混沌期，一直到 2026 年 2 月，算电协同开始启动，电力龙头华电辽能、算力租赁龙头利通电子。
 
 <img 
   src="{{ '/assets/post_images/20260524/中际旭创.png' | relative_url }}" 
@@ -363,7 +363,7 @@ A股永远需要新故事、新方向、新战场。
 
 所以 Tesla 链很重要。
 
-无人驾驶和人形机器人这条线其实已经启动两天了。第一天是全面启动，第二天没有彻底爆发，很多票只是普遍涨 3% 左右。
+无人驾驶和人形机器人这条线其实已经启动好几天了。这周四是第一次是全面启动，很多首版，周五很多票都没有连板，只是普遍涨 3% 左右。
 
 这不是题材弱。
 
@@ -371,8 +371,27 @@ A股永远需要新故事、新方向、新战场。
 
 老周期还在吸血，新周期自然不能马上全面夺权。
 
-但是敢于在AI硬件大面积负反馈，大盘杀跌的节点站出来，这是一种态度。
+但是敢于在周四AI硬件大面积负反馈，大盘4773家下跌，上证指数杀跌2%的节点站出来，这是一种态度。
 
+<img 
+  src="{{ '/assets/post_images/20260524/上证指数.png' | relative_url }}" 
+  style="width: 95%; max-width: 820px; border-radius: 12px; display: block; margin: 24px auto;">
+
+<img 
+  src="{{ '/assets/post_images/20260524/浙江世宝.png' | relative_url }}" 
+  style="width: 95%; max-width: 820px; border-radius: 12px; display: block; margin: 24px auto;">
+
+<img 
+  src="{{ '/assets/post_images/20260524/三花智控.png' | relative_url }}" 
+  style="width: 95%; max-width: 820px; border-radius: 12px; display: block; margin: 24px auto;">
+
+<img 
+  src="{{ '/assets/post_images/20260524/拓普集团.png' | relative_url }}" 
+  style="width: 95%; max-width: 820px; border-radius: 12px; display: block; margin: 24px auto;">
+
+<img 
+  src="{{ '/assets/post_images/20260524/绿的谐波.png' | relative_url }}" 
+  style="width: 95%; max-width: 820px; border-radius: 12px; display: block; margin: 24px auto;">
 
 
 **第二，能源基础设施。**
@@ -538,7 +557,7 @@ A股里面经常出现这种情况：
 
 我只想看盘面，然后执行。
 
-### 第一步：看大众交通和金利华电
+### 第一步：看大众交通，金利华电，和四环生物
 
 它们不一定是我的买点。
 
