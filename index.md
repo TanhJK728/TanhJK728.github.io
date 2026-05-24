@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Jiaqi Tang
 ---
 
 # Latent Dynamics
