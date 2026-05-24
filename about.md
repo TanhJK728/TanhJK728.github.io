@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Jiaqi Tang
+title: About Me
 permalink: /about/
 ---
 
