@@ -836,10 +836,15 @@ AI硬件回答的是“怎么把模型训练出来”。AI应用回答的是“�
 ## 数据和消息来源
 
 [1] https://www.ubs.com/global/en/wealthmanagement/insights/marketnews/article.2034635.html?utm_source=chatgpt.com
+
 [2] https://36kr.com/p/3797196504751367
+
 [3] https://36kr.com/p/3213734513576833
+
 [4] https://am.gs.com/en-us/institutions/insights/article/learnings-from-earnings
+
 [5] https://static.www.tencent.com/uploads/2026/05/13/47382ae415a209fd161bc19a1f9b3704.pdf
+
 [6] https://www.xinhuanet.com/20260525/0de588a7d41e432181afb34a6d175c8f/c.html
 
 [6]的内容：
