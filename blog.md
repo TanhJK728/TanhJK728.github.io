@@ -28,7 +28,7 @@ description: Research notes and technical writing by Jiaqi Tang.
     {% else %}
       <div class="empty-state">
         <h2>No posts yet.</h2>
-        <p>The blog is intentionally empty for now. New research notes can be added later as Markdown files in <code>_posts/</code>.</p>
+        <p>New research notes can be added later as Markdown files in <code>_posts/</code>.</p>
       </div>
     {% endif %}
   </div>
