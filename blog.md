@@ -9,7 +9,7 @@ description: Research notes and technical writing by Jiaqi Tang.
   <div class="container">
     <p class="eyebrow">Blog</p>
     <h1>Research notes &amp; technical writing</h1>
-    <p class="lead">A place for future notes on research, mathematics, machine learning, and technical ideas. Previous trading posts have intentionally been removed.</p>
+    <p class="lead">A place for future notes on research, mathematics, machine learning, and technical ideas.</p>
   </div>
 </section>
 
