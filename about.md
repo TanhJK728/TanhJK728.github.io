@@ -57,7 +57,7 @@ description: About Jiaqi Tang, a UIUC undergraduate in Mathematics and Physics w
       <div class="portrait">
         <img src="{{ '/assets/images/selfie.jpg' | relative_url }}" alt="Portrait of Jiaqi Tang">
       </div>
-      <p class="photo-note">The rebuild reuses the existing <code>assets/images/selfie.jpg</code> already in your repository.</p>
+      <p class="photo-note">Me in a Thai restaurant</p>
     </aside>
   </div>
 </section>
