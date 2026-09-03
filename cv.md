@@ -9,7 +9,7 @@ description: Curriculum vitae of Jiaqi Tang.
   <div class="container">
     <p class="eyebrow">Curriculum Vitae</p>
     <h1>CV</h1>
-    <p class="lead">The PDF below is the same current CV used as the factual source for this website rebuild.</p>
+    <p class="lead">My current CV as of 2026-09-03.</p>
   </div>
 </section>
 
