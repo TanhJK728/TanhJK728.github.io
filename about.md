@@ -27,7 +27,7 @@ description: About Jiaqi Tang, a UIUC undergraduate in Mathematics and Physics w
       <h3>University of Illinois Urbana-Champaign</h3>
       <p><strong>B.S. in Physics</strong>, Minor in Computer Science (College of Engineering) · Expected May 2027<br>
       <strong>B.S. in Mathematics</strong> (College of Liberal Arts and Sciences) · Expected May 2027</p>
-      <p>Cumulative GPA: <strong>3.89/4.00</strong>. James Scholar Candidate; Dean’s List, 2024–2026; Illinois Engineering Outstanding Scholarship; Illinois Engineering Achievement Scholarship.</p>
+      <p>Cumulative GPA: <strong>3.89/4.00</strong>. James Scholar Candidate; Dean’s List, 2024–2026.</p>
 
       <h2>Selected coursework</h2>
       <p>Stochastic Processes, Probability Theory, Numerical Analysis, Differential Equations, Real Analysis, Data Structures, Quantum Information, Computer Systems, Algorithms and Models of Computation.</p>
@@ -35,12 +35,16 @@ description: About Jiaqi Tang, a UIUC undergraduate in Mathematics and Physics w
       <h2>Honors &amp; awards</h2>
       <div class="info-grid">
         <div class="info-box">
-          <h3>Silver Medal · Spanish Physics Olympiad</h3>
+          <h3>Silver Medal</h3>
           <p>34th Spanish Physics Olympiad · April 2023</p>
         </div>
         <div class="info-box">
-          <h3>AIME I · 13/15</h3>
-          <p>American Invitational Mathematics Examination · February 2023</p>
+          <h3>Illinois Engineering Outstanding Scholarship</h3>
+          <p>The Grainger College of Engineering · Aug 2025</p>
+        </div>
+        <div class="info-box">
+          <h3>Illinois Engineering Achievement Scholarship</h3>
+          <p>The Grainger College of Engineering · Aug 2025</p>
         </div>
       </div>
 
