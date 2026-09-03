@@ -1,0 +1,21 @@
+<header class="site-header">
+  <div class="container nav-wrap">
+    <a class="brand" href="{{ '/' | relative_url }}" aria-label="Jiaqi Tang home">
+      <span class="brand-mark">JT</span>
+      <span class="brand-name">Jiaqi Tang</span>
+    </a>
+
+    <button class="nav-toggle" type="button" aria-label="Toggle navigation" aria-expanded="false" aria-controls="site-nav">
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav id="site-nav" class="site-nav" aria-label="Primary navigation">
+      <a href="{{ '/research/' | relative_url }}" {% if page.url == '/research/' %}class="active"{% endif %}>Research</a>
+      <a href="{{ '/projects/' | relative_url }}" {% if page.url == '/projects/' %}class="active"{% endif %}>Projects</a>
+      <a href="{{ '/experience/' | relative_url }}" {% if page.url == '/experience/' %}class="active"{% endif %}>Experience</a>
+      <a href="{{ '/about/' | relative_url }}" {% if page.url == '/about/' %}class="active"{% endif %}>About</a>
+      <a href="{{ '/blog/' | relative_url }}" {% if page.url == '/blog/' or page.layout == 'post' %}class="active"{% endif %}>Blog</a>
+      <a class="nav-cv{% if page.url == '/cv/' %} active{% endif %}" href="{{ '/cv/' | relative_url }}">CV</a>
+    </nav>
+  </div>
+</header>

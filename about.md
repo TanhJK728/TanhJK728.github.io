@@ -1,26 +1,63 @@
 ---
-layout: page
-title: About Me
+layout: default
+title: About
 permalink: /about/
+slug: about
+description: About Jiaqi Tang, a UIUC undergraduate in Mathematics and Physics with a Computer Science minor.
 ---
+<section class="page-hero">
+  <div class="container">
+    <p class="eyebrow">About</p>
+    <h1>Mathematics, physics, and intelligent systems.</h1>
+  </div>
+</section>
 
-<img 
-  src="{{ '/assets/images/selfie.jpg' | relative_url }}" 
-  alt="Jiaqi Tang" 
-  style="width: 300px; border-radius: 12px; display: block; margin: 20px auto;">
+<section class="content-section">
+  <div class="container split">
+    <div class="prose">
+      <h2>About me</h2>
+      <p>
+        I am an undergraduate at the University of Illinois Urbana-Champaign pursuing B.S. degrees in Physics and Mathematics, with a minor in Computer Science. My work spans world models and reinforcement learning, stochastic and dynamical modeling, computational social choice, and data-driven optimization.
+      </p>
+      <p>
+        I am particularly interested in connecting mathematical and physical structure with learning-based systems: how an intelligent agent can model dynamics, represent uncertainty, and make reliable decisions when its learned model of the world is incomplete.
+      </p>
 
-I am an undergraduate student interested in machine learning, stochastic processes, market dynamics, robotics, and trading systems.
+      <h2>Education</h2>
+      <h3>University of Illinois Urbana-Champaign</h3>
+      <p><strong>B.S. in Physics</strong>, Minor in Computer Science (College of Engineering) · Expected May 2027<br>
+      <strong>B.S. in Mathematics</strong> (College of Liberal Arts and Sciences) · Expected May 2027</p>
+      <p>Cumulative GPA: <strong>3.89/4.00</strong>. James Scholar Candidate; Dean’s List, 2024–2026; Illinois Engineering Outstanding Scholarship; Illinois Engineering Achievement Scholarship.</p>
 
-## Research Interests
+      <h2>Selected coursework</h2>
+      <p>Stochastic Processes, Probability Theory, Numerical Analysis, Differential Equations, Real Analysis, Data Structures, Quantum Information, Computer Systems, Algorithms and Models of Computation.</p>
 
-- Machine learning, JEPA, Robotics
-- Stochastic differential equations
-- Market Trading and Quantiative Research
+      <h2>Honors &amp; awards</h2>
+      <div class="info-grid">
+        <div class="info-box">
+          <h3>Silver Medal · Spanish Physics Olympiad</h3>
+          <p>34th Spanish Physics Olympiad · April 2023</p>
+        </div>
+        <div class="info-box">
+          <h3>AIME I · 13/15</h3>
+          <p>American Invitational Mathematics Examination · February 2023</p>
+        </div>
+      </div>
 
-## Curriculum Vitae (CV)
+      <h2>Skills</h2>
+      <p><strong>Programming:</strong> Python, MATLAB, SQL</p>
+      <p><strong>Libraries &amp; tools:</strong> NumPy, pandas, scikit-learn, PyTorch, XGBoost, Google BigQuery, Git, LaTeX</p>
+      <p><strong>Languages:</strong> Mandarin (Native), Spanish (Native), English (Native), Catalan (Advanced)</p>
 
-[My CV]({{ "/assets/files/Jiaqi Tang CV.pdf" | relative_url }})
+      <h2>Leadership &amp; service</h2>
+      <p>Student Senator, University of Illinois Urbana-Champaign Senate, 2024–2025.</p>
+    </div>
 
-## Contact
-
-GitHub: [TanhJK728](https://github.com/TanhJK728)
+    <aside class="portrait-card">
+      <div class="portrait">
+        <img src="{{ '/assets/images/selfie.jpg' | relative_url }}" alt="Portrait of Jiaqi Tang">
+      </div>
+      <p class="photo-note">The rebuild reuses the existing <code>assets/images/selfie.jpg</code> already in your repository.</p>
+    </aside>
+  </div>
+</section>

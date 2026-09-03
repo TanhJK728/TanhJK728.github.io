@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<section class="page-hero compact">
+  <div class="container narrow">
+    <a class="eyebrow-link" href="{{ '/blog/' | relative_url }}">← Blog</a>
+    <p class="eyebrow">{{ page.date | date: "%B %-d, %Y" }}{% if page.categories %} · {{ page.categories | join: " · " }}{% endif %}</p>
+    <h1>{{ page.title }}</h1>
+    {% if page.description %}<p class="lead">{{ page.description }}</p>{% endif %}
+  </div>
+</section>
+<article class="container narrow prose post-content">
+  {{ content }}
+</article>

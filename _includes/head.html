@@ -1,0 +1,55 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1f33">
+  <meta name="color-scheme" content="light">
+
+  {% assign page_title = page.title | default: site.title %}
+  {% if page.title and page.title != site.title %}
+    <title>{{ page_title }} · {{ site.title }}</title>
+  {% else %}
+    <title>{{ site.title }}</title>
+  {% endif %}
+
+  <meta name="description" content="{{ page.description | default: site.description | escape }}">
+  <meta name="author" content="{{ site.author }}">
+  <link rel="canonical" href="{{ page.url | absolute_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="{{ page_title | escape }}">
+  <meta property="og:description" content="{{ page.description | default: site.description | escape }}">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:site_name" content="{{ site.title }}">
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{{ page_title | escape }}">
+  <meta name="twitter:description" content="{{ page.description | default: site.description | escape }}">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Jiaqi Tang",
+    "url": "{{ site.url }}",
+    "email": "mailto:{{ site.email }}",
+    "affiliation": {
+      "@type": "CollegeOrUniversity",
+      "name": "University of Illinois Urbana-Champaign"
+    },
+    "sameAs": [
+      "{{ site.github_url }}",
+      "{{ site.linkedin_url }}"
+    ],
+    "knowsAbout": [
+      "Embodied AI",
+      "World Models",
+      "Reinforcement Learning",
+      "Stochastic Processes",
+      "Computational Social Choice",
+      "Mathematical Modeling"
+    ]
+  }
+  </script>
+</head>

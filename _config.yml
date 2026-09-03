@@ -1,14 +1,22 @@
-theme: minima
-
-title: My Blogs
-description: A research notebook on JEPA, stochastic differential equations, machine learning, and trading systems.
-
+title: Jiaqi Tang
+description: Mathematics and Physics undergraduate at UIUC working on embodied AI, world models, stochastic modeling, and computational research.
 author: Jiaqi Tang
+url: "https://tanhjk728.github.io"
+baseurl: ""
+lang: en
 
-header_pages:
-  - about.md
-
-future: true
 timezone: America/Chicago
-
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title/
+future: true
+
+email: jiaqi28@illinois.edu
+github_url: "https://github.com/TanhJK728"
+linkedin_url: "https://www.linkedin.com/in/jiaqitang2005"
+cv_url: "/assets/files/Jiaqi_Tang_CV.pdf"
+
+exclude:
+  - README.md
+  - REPLACEMENT_GUIDE.md
+  - Gemfile
+  - Gemfile.lock
