@@ -27,7 +27,7 @@ description: About Jiaqi Tang, a UIUC undergraduate in Mathematics and Physics w
       <h3>University of Illinois Urbana-Champaign</h3>
       <p><strong>B.S. in Physics</strong>, Minor in Computer Science (College of Engineering) · Expected May 2027<br>
       <strong>B.S. in Mathematics</strong> (College of Liberal Arts and Sciences) · Expected May 2027</p>
-      <p>Cumulative GPA: <strong>3.89/4.00</strong>. James Scholar Candidate; Dean’s List, 2024–2026.</p>
+      <p>Cumulative GPA: <strong>3.89/4.00</strong>. Edmund J James Scholar; Dean’s List, 2024–2026.</p>
 
       <h2>Selected coursework</h2>
       <p>Stochastic Processes, Probability Theory, Numerical Analysis, Differential Equations, Real Analysis, Data Structures, Quantum Information, Computer Systems, Algorithms and Models of Computation.</p>
